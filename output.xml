@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1 (Python 3.12.5 on win32)" generated="2024-09-28T18:21:13.220998" rpa="false" schemaversion="5">
+<suite id="s1" name="Tc1" source="C:\Users\chinm\PycharmProjects\pythonProject\testcases\tc1.robot">
+<test id="s1-t1" name="Logintestcase" line="2">
+<kw name="open browser">
+<msg time="2024-09-28T18:21:13.264999" level="FAIL">No keyword with name 'open browser' found.</msg>
+<arg>https://demo.nopcommerce.com/</arg>
+<arg>chrome</arg>
+<status status="FAIL" start="2024-09-28T18:21:13.264999" elapsed="0.000000">No keyword with name 'open browser' found.</status>
+</kw>
+<status status="FAIL" start="2024-09-28T18:21:13.263832" elapsed="0.001167">No keyword with name 'open browser' found.</status>
+</test>
+<status status="FAIL" start="2024-09-28T18:21:13.222536" elapsed="0.044480"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Tc1">Tc1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
